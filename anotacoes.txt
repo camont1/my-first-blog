@@ -1,0 +1,7 @@
+## Anotações do tutorial do djangogirls
+## Data: 23/jun/2017
+
+### Objetos
+# descreve uma propriedade do objeto e as ações (chamadas de
+# métodos).
+
